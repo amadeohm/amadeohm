@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amadeohm
 - 👀 I’m interested in AI - Vision - Robotics & Drones - Healthcare
 - 🌱 I’m currently learning AI (not only LLM's)
-- ⚡ Fun fact: on my 4th year on AI Bachelor Degree on UPC-FIB, currently based on Denmark 🇩🇰
+- ⚡ Fun fact: on my 4th year of AI Bachelor Degree on UPC-FIB, currently based on Denmark 🇩🇰
 
 - 🧠 : Caught between training models and wondering if they’re secretly training me.
 <!---
