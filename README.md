@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amadeohm
-- 👀 I’m interested in AI - Computer Vision - Robotics & Drones - AI Applications in Healthcare
+- 👀 I’m interested in AI - Computer Vision - Robotics & Drones - Deep Learning & AI Applications Real-World
 - 🌱 I’m currently learning AI (not only LLM's)
 
 - 🧠 : Caught between training models and wondering if they’re secretly training me.
