@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @amadeohm
-- 👀 AI/ML 
+### Hi, I'm Amadeo! 👋
 
-- 🧠 : Caught between training models and wondering if they’re secretly training me.
-<!---
-amadeohm/amadeohm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an AI researcher and engineer at **Universitat Pompeu Fabra (UPF)** in Barcelona.
+
+My background and interests span **machine learning, computer vision, robotics, and data science**, combining research with hands-on engineering.
+
+I'm particularly curious about **how models learn, how to make them more efficient, and how high-performance computing can push their capabilities further**. Currently exploring self-supervised learning, probabilistic modelling, and predictive uncertainty.
+
+🌐 [Website](https://amadeohm.github.io/) · 📄·🔗 LinkedIn [Website](www.linkedin.com/in/amadeo-hm)
+
+---
+
+*Trying to build the future with AI, one sarcastic commit at a time.*
