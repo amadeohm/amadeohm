@@ -6,7 +6,7 @@ My background and interests span **machine learning, computer vision, robotics, 
 
 I'm particularly curious about **how models learn, how to make them more efficient, and how high-performance computing can push their capabilities further**. Currently exploring self-supervised learning, probabilistic modelling, and predictive uncertainty.
 
-🌐 [Website](https://amadeohm.github.io/) · 📄·🔗 LinkedIn [Website](www.linkedin.com/in/amadeo-hm)
+🌐 [Website](https://amadeohm.github.io/) · 📄·🔗 [LinkedIn](www.linkedin.com/in/amadeo-hm)
 
 ---
 
